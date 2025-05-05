@@ -1,0 +1,153 @@
+div.SCContent {
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+.SCAnimation canvas {
+	-ms-transform: scale(0.5);
+	-moz-transform: scale(0.5);
+	-webkit-transform: scale(0.5);
+	transform: scale(0.5);
+	-ms-transform-origin: 0px 0px;
+	-moz-transform-origin: 0px 0px;
+	-webkit-transform-origin: 0px 0px;
+	transform-origin: 0px 0px;
+	pointer-events: none;
+}
+
+
+
+div#obj138 {
+position: absolute;
+overflow: hidden;
+top: 140px;
+left: 147px;
+width: 625px;
+height: 77px;
+opacity: 1;
+z-index: 0;
+display:block;
+pointer-events: auto;
+user-select: text;  
+-moz-user-select: text;
+-webkit-user-select: text;
+-ms-user-select: text;
+
+}
+div#obj138_content {
+}
+div#obj140 {
+position: absolute;
+overflow: hidden;
+top: 244px;
+left: 147px;
+width: 777px;
+height: 144px;
+opacity: 1;
+z-index: 1;
+display:block;
+pointer-events: auto;
+user-select: text;  
+-moz-user-select: text;
+-webkit-user-select: text;
+-ms-user-select: text;
+
+}
+div#obj140_content {
+}
+div#obj165 {
+position: absolute;
+overflow: hidden;
+top: 561px;
+left: 147px;
+width: 255px;
+height: 96px;
+opacity: 1;
+z-index: 2;
+display:block;
+pointer-events: auto;
+user-select: text;  
+-moz-user-select: text;
+-webkit-user-select: text;
+-ms-user-select: text;
+
+}
+div#obj165_content {
+}
+div#obj167 {
+position: absolute;
+overflow: hidden;
+top: 661px;
+left: 147px;
+width: 990px;
+height: 176px;
+opacity: 1;
+z-index: 3;
+display:block;
+pointer-events: auto;
+user-select: text;  
+-moz-user-select: text;
+-webkit-user-select: text;
+-ms-user-select: text;
+
+}
+div#obj167_content {
+}
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+font-family: Lato, Arial, Helvetica, Sans-Serif;
+font-size: 20px;
+line-height: 1.2;
+color: #000000
+}
+:link { color: #0A52A2; }
+:visited { color: #5B2599; }
+/* Start of default CSS Styles */
+p, h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
+}
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.17em; }
+h4 { font-size: 1.12em; }
+h5 { font-size: .83em; }
+h6 { font-size: .67em; }
+/* End of default CSS Styles */
+.SCText p.Title { 
+    font-family: times; 
+    font-weight: 600; 
+    font-size: 40px; 
+    line-height: 150%; 
+    color: #000000; 
+    text-align: left; 
+    margin-bottom: 10px; 
+    margin-top: 10px; 
+    padding: 10px; 
+} 
+ 
+.SCText p.Text { 
+    font-family: times; 
+    font-weight: 300; 
+    font-size: 28px; 
+    line-height: 150%; 
+    color: #000000; 
+    text-align: justify; 
+    margin-bottom: 10px; 
+    margin-top: 10px; 
+    padding: 10px; 
+} 
+.SCPage {
+background-color: #FFFFFF
+}
