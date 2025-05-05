@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<!-- METADATA -->
+	<meta name="generator" content="PubCoder for Mac OS X"/>
+	<meta property="rendition:layout">pre-paginated</meta>	
+	<meta property="rendition:orientation">auto</meta>
+	<meta property="rendition:spread">none</meta>
+	<meta property="dcterms:modified">2023-08-28T15:46:51Z</meta>
+	<meta property="media:active-class">-epub-media-overlay-active</meta>
+	<meta property="media:duration">00:00:00</meta>
+	
+	<dc:title>Unfold My Heart</dc:title>
+	<dc:creator>Daniele Giampà</dc:creator>
+	<dc:description>Powered by PubCoder</dc:description>
+	<dc:publisher>Daniele Giampà</dc:publisher>
+	<dc:date>2023-08-28</dc:date>
+	<dc:rights>© 2023 Daniele Giampà</dc:rights>
+	<dc:language>en</dc:language>
+	<dc:identifier id="BookID">8FB1114702334CBF94168BE8E27DB0BE</dc:identifier>
+	<meta name="cover" content="cover-image" />
+</metadata>	
+<!-- MANIFEST -->
+	<manifest>
+<!-- GENERAL ASSETS  -->
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item id="cssContent" href="css/general.styles.css" media-type="text/css"/>
+		<item id="animateCss" href="css/animate.css" media-type="text/css"/>
+		<item id="cover-image" properties="cover-image" href="assets/images/pubcoder_book_cover.jpg" media-type="image/jpeg"/>
+		
+		<item id="SCNavigationLeft-image" href="images/scnavigation-prev-btn.png" media-type="image/png"/>
+		<item id="SCNavigationLeft-image-active" href="images/scnavigation-prev-btn-active.png" media-type="image/png"/>
+		<item id="SCNavigationLeft-image-hover" href="images/scnavigation-prev-btn-hover.png" media-type="image/png"/>
+		<item id="SCNavigationRight-image" href="images/scnavigation-next-btn.png" media-type="image/png"/>
+		<item id="SCNavigationRight-image-active" href="images/scnavigation-next-btn-active.png" media-type="image/png"/>
+		<item id="SCNavigationRight-image-hover" href="images/scnavigation-next-btn-hover.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-fullscreen-close-image" href="images/scphotogallery-fullscreen-close.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-fullscreen-open-image" href="images/scphotogallery-fullscreen-open.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-index-close-image" href="images/scphotogallery-index-close.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-index-open-image" href="images/scphotogallery-index-open.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-next-image" href="images/scphotogallery-next.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-prev-image" href="images/scphotogallery-prev.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-thumb-next-image" href="images/scphotogallery-thumb-next.png" media-type="image/png"/>
+		<item id="SCPhotoGallery-thumb-prev-image" href="images/scphotogallery-thumb-prev.png" media-type="image/png"/>
+		
+		<item id="SCQuiz-check-off" href="images/scquiz-check-off.png" media-type="image/png"/>
+		<item id="SCQuiz-check-on" href="images/scquiz-check-on.png" media-type="image/png"/>
+		<item id="SCQuiz-check-right" href="images/scquiz-check-right.png" media-type="image/png"/>
+		<item id="SCQuiz-check-wrong" href="images/scquiz-check-wrong.png" media-type="image/png"/>
+		<item id="SCQuiz-radio-off" href="images/scquiz-radio-off.png" media-type="image/png"/>
+		<item id="SCQuiz-radio-on" href="images/scquiz-radio-on.png" media-type="image/png"/>
+		<item id="SCQuiz-radio-right" href="images/scquiz-radio-right.png" media-type="image/png"/>
+		<item id="SCQuiz-radio-wrong" href="images/scquiz-radio-wrong.png" media-type="image/png"/>
+		<item id="SCQuiz-next" href="images/scquiz-next.png" media-type="image/png"/>
+		<item id="SCQuiz-prev" href="images/scquiz-prev.png" media-type="image/png"/>
+		<item id="SCQuiz-radio-missed" href="images/scquiz-radio-missed.png" media-type="image/png"/>
+		<item id="SCQuiz-check-missed" href="images/scquiz-check-missed.png" media-type="image/png"/>
+		<item id="SCDrawer-trash" href="images/scdrawer-trash.png" media-type="image/png"/>
+        <item id="SCDrawer-transparent" href="images/scdrawer-transparent_color.png" media-type="image/png"/>
+        <item id="SCDrawer-tool-drawer" href="images/scdrawer-draw_tool_icon.png" media-type="image/png"/>
+        <item id="SCDrawer-tool-eraser" href="images/scdrawer-erase_tool_icon.png" media-type="image/png"/>
+        <item id="SCDrawer-tool-filler" href="images/scdrawer-fill_tool_icon.png" media-type="image/png"/>
+        <item id="SCDrawer-tool-crayon" href="images/scdrawer-crayon_tool_icon.png" media-type="image/png"/>
+		
+<!-- FONTS -->		
+		
+<item id="font1" href="fonts/OpenDyslexic3.ttf" media-type="application/x-font-truetype"/>
+<item id="font2" href="fonts/Anonymous-Pro.ttf" media-type="application/x-font-truetype"/>
+<item id="font3" href="fonts/Droid-Sans.ttf" media-type="application/x-font-truetype"/>
+<item id="font4" href="fonts/Tinos.ttf" media-type="application/x-font-truetype"/>
+<item id="font5" href="fonts/Didot.ttf" media-type="application/x-font-truetype"/>
+<item id="font6" href="fonts/Roboto-Mono.ttf" media-type="application/x-font-truetype"/>
+<item id="font7" href="fonts/Roboto-Slab.ttf" media-type="application/x-font-truetype"/>
+<item id="font8" href="fonts/Open-Sans.ttf" media-type="application/x-font-truetype"/>
+<item id="font9" href="fonts/Roboto.ttf" media-type="application/x-font-truetype"/>
+<item id="font10" href="fonts/Source-Sans-Pro.ttf" media-type="application/x-font-truetype"/>
+<item id="font11" href="fonts/Source-Code-Pro.ttf" media-type="application/x-font-truetype"/>
+<item id="font12" href="fonts/Droid-Serif.ttf" media-type="application/x-font-truetype"/>
+<item id="font13" href="fonts/Droid-Sans-Mono.ttf" media-type="application/x-font-truetype"/>
+<item id="font14" href="fonts/Lato.ttf" media-type="application/x-font-truetype"/>
+<!-- JAVASCRIPT -->
+				<item id="jquery" href="js/jquery.js" media-type="text/javascript" />
+        <item id="spritespin_api" href="js/spritespin.api.js" media-type="text/javascript" />
+        <item id="spritespin" href="js/spritespin.js" media-type="text/javascript" />
+		<item id="spritespin_mod_360" href="js/spritespin.mod-360.js" media-type="text/javascript" />
+		<item id="jquery_ui" href="js/jquery.ui.js" media-type="text/javascript" />
+		<item id="jquery_scrollTo" href="js/jquery.scrollTo.min.js" media-type="text/javascript" />
+		<item id="jquery_easie" href="js/jquery.easie-min.js" media-type="text/javascript" />
+		<item id="jquery_move" href='js/jquery.move.js' media-type="text/javascript" />
+		<item id="jquery_SCswipe" href='js/jquery.SCswipe.js' media-type="text/javascript" />
+		<item id="jquery-css-transform" href='js/jquery-css-transform.js' media-type="text/javascript" />
+		<item id="jquery-animate-css-rotate-scale" href='js/jquery-animate-css-rotate-scale.js' media-type="text/javascript" />
+		<item id="jquery-animate-shadow" href='js/jquery.animate-shadow-min.js' media-type="text/javascript" />
+        <item id="jquery_panzoom_js" href='js/jquery.panzoom.min.js' media-type="text/javascript" />
+        <item id="underscore_js" href='js/underscore-min.js' media-type="text/javascript" />
+		<item id="remodal_js" href='js/remodal.js' media-type="text/javascript" />
+		<item id="pubcoder_js" href='js/pubcoder.js' media-type="text/javascript" />
+		<item id="pubcoder_devicemotion_js" href='js/pubcoder.devicemotion.js' media-type="text/javascript" />
+		<item id="pubcoder_general_functions" href='js/general.functions.js' media-type="text/javascript" />
+		<item id="unmask_js" href='js/unmask.js' media-type="text/javascript" />
+		<item id="swiper_js" href='js/idangerous.swiper-2.3.js' media-type="text/javascript" />
+		<item id="photogallery_js" href='js/photogallery.js' media-type="text/javascript" />
+		<item id="quiz_multi_js" href='js/quiz-multi.js' media-type="text/javascript" />
+		<item id="drawer_js" href='js/drawer.js' media-type="text/javascript" />
+		<item id="drawer_flood_fill_js" href='js/flood_fill.js' media-type="text/javascript" />
+        
+        <item id="scw_widgets_js" href='js/scw_widgets.js' media-type="text/javascript" />
+        <item id="scw_panzoom_js" href='js/scw_panzoom.js' media-type="text/javascript" />
+        <item id="scw_memory_game_js" href='js/scw_memory_game.js' media-type="text/javascript" />
+        
+		<item id="hammer_min_js" href='js/hammer.min.js' media-type="text/javascript" />
+		
+		
+<!-- SHARED ASSETS -->
+		
+<!-- PAGES ASSETS -->
+		<!--page 1-->
+<item id="js1" href="assets/1/actions.js" media-type="text/javascript" />
+<item id="css1" href="assets/1/styles.css" media-type="text/css"/>
+<item id="page1" href="assets/1/page.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="obj136_image" href="assets/images/obj136_image.png" media-type="image/png" />
+
+<!--page 1: end-->
+<!--page 2-->
+<item id="js2" href="assets/2/actions.js" media-type="text/javascript" />
+<item id="css2" href="assets/2/styles.css" media-type="text/css"/>
+<item id="page2" href="assets/2/page.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+
+<!--page 2: end-->
+<!--page 3-->
+<item id="js3" href="assets/3/actions.js" media-type="text/javascript" />
+<item id="css3" href="assets/3/styles.css" media-type="text/css"/>
+<item id="page3" href="assets/3/page.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="obj63_sprite1" href="assets/images/obj63_sprite1.png" media-type="image/png" />
+<item id="obj63_sprite2" href="assets/images/obj63_sprite2.png" media-type="image/png" />
+<item id="obj63_sprite3" href="assets/images/obj63_sprite3.png" media-type="image/png" />
+<item id="obj63_sprite4" href="assets/images/obj63_sprite4.png" media-type="image/png" />
+
+<!--page 3: end-->
+<!--page 4-->
+<item id="js4" href="assets/4/actions.js" media-type="text/javascript" />
+<item id="css4" href="assets/4/styles.css" media-type="text/css"/>
+<item id="page4" href="assets/4/page.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="obj73_sprite2" href="assets/images/obj73_sprite2.png" media-type="image/png" />
+<item id="obj73_sprite3" href="assets/images/obj73_sprite3.png" media-type="image/png" />
+<item id="obj73_sprite4" href="assets/images/obj73_sprite4.png" media-type="image/png" />
+<item id="obj73_sprite5" href="assets/images/obj73_sprite5.png" media-type="image/png" />
+
+<!--page 4: end-->
+<!--page 5-->
+<item id="js5" href="assets/5/actions.js" media-type="text/javascript" />
+<item id="css5" href="assets/5/styles.css" media-type="text/css"/>
+<item id="page5" href="assets/5/page.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="obj82_sprite1" href="assets/images/obj82_sprite1.png" media-type="image/png" />
+<item id="obj82_sprite2" href="assets/images/obj82_sprite2.png" media-type="image/png" />
+<item id="obj82_sprite3" href="assets/images/obj82_sprite3.png" media-type="image/png" />
+<item id="obj82_sprite4" href="assets/images/obj82_sprite4.png" media-type="image/png" />
+<item id="obj82_sprite5" href="assets/images/obj82_sprite5.png" media-type="image/png" />
+
+<!--page 5: end-->
+<!--page 6-->
+<item id="js6" href="assets/6/actions.js" media-type="text/javascript" />
+<item id="css6" href="assets/6/styles.css" media-type="text/css"/>
+<item id="page6" href="assets/6/page.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="obj101_sprite1" href="assets/images/obj101_sprite1.png" media-type="image/png" />
+<item id="obj101_sprite2" href="assets/images/obj101_sprite2.png" media-type="image/png" />
+<item id="obj101_sprite3" href="assets/images/obj101_sprite3.png" media-type="image/png" />
+<item id="obj101_sprite4" href="assets/images/obj101_sprite4.png" media-type="image/png" />
+<item id="obj101_sprite5" href="assets/images/obj101_sprite5.png" media-type="image/png" />
+
+<!--page 6: end-->
+<!--page 7-->
+<item id="js7" href="assets/7/actions.js" media-type="text/javascript" />
+<item id="css7" href="assets/7/styles.css" media-type="text/css"/>
+<item id="page7" href="assets/7/page.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="obj113_sprite1" href="assets/images/obj113_sprite1.png" media-type="image/png" />
+<item id="obj113_sprite2" href="assets/images/obj113_sprite2.png" media-type="image/png" />
+<item id="obj113_sprite3" href="assets/images/obj113_sprite3.png" media-type="image/png" />
+<item id="obj113_sprite4" href="assets/images/obj113_sprite4.png" media-type="image/png" />
+<item id="obj113_sprite5" href="assets/images/obj113_sprite5.png" media-type="image/png" />
+
+<!--page 7: end-->
+<!--page 8-->
+<item id="js8" href="assets/8/actions.js" media-type="text/javascript" />
+<item id="css8" href="assets/8/styles.css" media-type="text/css"/>
+<item id="page8" href="assets/8/page.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="obj125_sprite1" href="assets/images/obj125_sprite1.png" media-type="image/png" />
+<item id="obj125_sprite2" href="assets/images/obj125_sprite2.png" media-type="image/png" />
+<item id="obj125_sprite3" href="assets/images/obj125_sprite3.png" media-type="image/png" />
+<item id="obj125_sprite4" href="assets/images/obj125_sprite4.png" media-type="image/png" />
+
+<!--page 8: end-->
+<!--page 9-->
+<item id="js9" href="assets/9/actions.js" media-type="text/javascript" />
+<item id="css9" href="assets/9/styles.css" media-type="text/css"/>
+<item id="page9" href="assets/9/page.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+
+<!--page 9: end-->
+<!--page 10-->
+<item id="js10" href="assets/10/actions.js" media-type="text/javascript" />
+<item id="css10" href="assets/10/styles.css" media-type="text/css"/>
+<item id="page10" href="assets/10/page.xhtml" media-type="application/xhtml+xml" properties="remote-resources scripted"/>
+
+<!--page 10: end-->
+	</manifest>
+	
+	<spine page-progression-direction="ltr">
+		<itemref idref="page1" />
+<itemref idref="page2" />
+<itemref idref="page3" />
+<itemref idref="page4" />
+<itemref idref="page5" />
+<itemref idref="page6" />
+<itemref idref="page7" />
+<itemref idref="page8" />
+<itemref idref="page9" />
+<itemref idref="page10" />
+	</spine>
+	
+	<guide> 
+      <reference type="cover" title="Cover" href="assets/1/page.xhtml"/>
+      <reference type="text" title="Story start" href="assets/2/page.xhtml"/>
+  </guide>	
+</package>
